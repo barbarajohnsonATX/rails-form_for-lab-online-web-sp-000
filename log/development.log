@@ -284,3 +284,10 @@ Processing by StudentsController#index as HTML
 Completed 200 OK in 898ms (Views: 890.9ms | ActiveRecord: 2.3ms)
 
 
+Started GET "/students/new" for 72.182.10.227 at 2019-07-02 01:11:18 +0000
+Processing by StudentsController#new as HTML
+  Rendering students/new.html.erb within layouts/application
+  Rendered students/new.html.erb within layouts/application (21.6ms)
+Completed 200 OK in 59ms (Views: 42.4ms | ActiveRecord: 1.9ms)
+
+
